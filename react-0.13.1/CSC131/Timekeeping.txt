@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+	</style>
+	<title> Mother Lode Time Keeping </title>
+	<script src="http://fb.me/react-0.12.2.js"></script>
+	<script src="http://fb.me/JSXTransformer-0.12.2.js"></script>
+</head>
+		
+		
+<body>
+	<style type = "text/css">
+	body{
+		background-color:#47D1FF;
+	}
+	
+	
+	</style>
+		<img src="companylogo.png" width="500" height="150">
+		<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+		
+		<center><form id='login_form' action='scripts/login.php' method='post'> 
+			Username: <input type="text" name="user"> <br><br>
+			Password: <input type="password" name="password"><br></center>
+			<h1 style = "padding-left: 43%">
+			<input type='login' name='Login' value='Login' /> </form></h1>
+		</form>
+</body>
+
+</html>
